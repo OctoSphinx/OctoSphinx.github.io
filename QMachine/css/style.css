@@ -1,0 +1,46 @@
+/*font-family: 'Slabo 27px', serif;*/
+body {
+	background: url('../img/resizedAlps.jpg');
+	background-size: cover;
+}
+
+.skyrim {
+	font-family: 'IM Fell French Canon SC', serif;
+	font-size: 36px;
+	text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.well {
+	background-color: #543sc3c;
+	/*color: #fff;*/
+	font-size: 24px;
+	margin: 0 auto;
+	padding: 24px;
+	height: 200px;
+	width: 500px;
+}
+
+.message {
+	font-family: merriweather;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.col-md-6 {
+	float: none;
+}
+
+.btn-primary {
+	background-color: #726767;
+	border-color: #543c3c;
+}
+
+#daQuote {
+	padding: 25px;
+	border-radius: 20px;
+	}
+
+#footer p {
+	text-align: center;
+	color: white;
+}
